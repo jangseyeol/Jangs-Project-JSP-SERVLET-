@@ -1,68 +1,33 @@
-
-#커넥션 풀
-<Resource name="jdbc/myoracle" auth="Container"
-type="javax.sql.DataSource" driverClassName="oracle.jdbc.OracleDriver"
-url="jdbc:oracle:thin:@127.0.0.1:1521:xe"
-username="ezen" password="1234" maxTotal="20" maxIdle="10"
- maxWaitMillis="-1"/>
- 
-#DB
-create table board( 
-num NUMBER(5) primary key,
-pass VARCHAR2(30) not null,
-name VARCHAR2(30) not null,
-email VARCHAR2(30),
-title VARCHAR2(50),
-content VARCHAR2(1000),
-readcount NUMBER(4) DEFAULT 0,
-img varchar2(100),
-ref number(5) default 0,
-indent number(5) default 0,
-step number(5) default 0,
-writedate date default sysdate,
-comment_count number(10) default 0,
-like_it number(10) default 0,
-constraint fk_name foreign key(name) references christian(id) on delete cascade
-);
-create SEQUENCE board_seq start with 1 increment by 1;
-
-create table christian(
-id varchar2(10) not null,
-pass varchar2(10) not null,
-name varchar2(24),
-enter DATE DEFAULT SYSDATE,
-gender CHAR(1) DEFAULT '1',
-phone VARCHAR2(30),
-PRIMARY KEY(id)
-);
-
-
-create table heavenload( 
-num NUMBER(5) primary key,
-pass VARCHAR2(30) not null,
-name VARCHAR2(30) not null,
-email VARCHAR2(30),
-title VARCHAR2(50),
-content VARCHAR2(1000),
-readcount NUMBER(4) DEFAULT 0,
-img varchar2(100),
-ref number(5) default 0,
-indent number(5) default 0,
-step number(5) default 0,
-writedate date default sysdate,
-constraint fk_name foreign key(name) references christian(id) on delete cascade
-);
-
-create sequence heavenload_seq start with 1 increment by 1;
-
-create table board_comment(
-comment_num number(5) primary key,
-board_num number(5),
-id varchar2(30),
-content varchar2(600),
-writedate date default sysdate,
-constraint fk_comment foreign key(board_num) references board(num),
-constraint fk_name2 foreign key(id) references christian(id)
-);
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a71b1b,100:4b1616&height=120&text=JSP-MVC2%20PROJECT&animation=&fontColor=000000&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:jangseyeol25@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jangseyeol25@gmail.com"> </a>
+         <a href=https://www.notion.so/5d787601aa164273b64d9c23c46da6ba?v=c9fc3bc91707475b8497185b2a8b4bed&pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/5d787601aa164273b64d9c23c46da6ba?v=c9fc3bc91707475b8497185b2a8b4bed&pvs=4"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangseyeol&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
 create sequence COMMENT_SEQ start with 1 increment by 1;
