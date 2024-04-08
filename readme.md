@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=JSP-MVC2%20PROJECT&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 풍족한교회 미니홈페이지입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 이번 프로젝트는 JSP/SERVLET MVC2 모델기법을 사용한 '미니홈페이지 제작' 입니다. 제가 섬기고 사역하고 있는 '풍족한 교회'의 미니홈페이지를 만들어보았습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
