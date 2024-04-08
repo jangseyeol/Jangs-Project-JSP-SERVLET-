@@ -22,4 +22,4 @@
     <div style="text-align: left;">  </div> 
     </div>
 
-    !https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/blob/main/%ED%92%8D%EC%A1%B1%ED%95%9C%EA%B5%90%ED%9A%8C%20%EB%AF%B8%EB%8B%88%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%9E%A5%EC%84%B8%EC%97%B4)/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG
+!https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/blob/main/%ED%92%8D%EC%A1%B1%ED%95%9C%EA%B5%90%ED%9A%8C%20%EB%AF%B8%EB%8B%88%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80(%EC%9E%A5%EC%84%B8%EC%97%B4)/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG
