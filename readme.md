@@ -22,8 +22,8 @@
     <div style="text-align: left;">  </div> 
     </div>
 
-![슬라이드1](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/1a0c2e9a-2f09-4b2e-bb8b-83725e023ff1)
-![슬라이드2](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/82f0677c-5c37-4144-b01d-5132e2a8c0c2)
+| **![슬라이드1](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/1a0c2e9a-2f09-4b2e-bb8b-83725e023ff1)** | **![슬라이드2](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/82f0677c-5c37-4144-b01d-5132e2a8c0c2)** |
+| :------: |  :------: |
 ![슬라이드3](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/569470fb-4982-4b4d-9f27-86d2d9eab02e)
 ![슬라이드4](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/8296bfdb-b41b-4c52-82f8-213896aaf9c2)
 ![슬라이드5](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/eb78592f-c425-4f6a-ab41-d2d870e46945)
