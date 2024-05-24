@@ -24,22 +24,14 @@
 
 | **![슬라이드1](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/1a0c2e9a-2f09-4b2e-bb8b-83725e023ff1)** | **![슬라이드2](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/82f0677c-5c37-4144-b01d-5132e2a8c0c2)** |
 | :------: |  :------: |
-![슬라이드3](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/569470fb-4982-4b4d-9f27-86d2d9eab02e)
-![슬라이드4](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/8296bfdb-b41b-4c52-82f8-213896aaf9c2)
-![슬라이드5](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/eb78592f-c425-4f6a-ab41-d2d870e46945)
-![슬라이드6](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/5c5f4a7f-ac4a-45a4-8fd8-aec020e9e70f)
-![슬라이드7](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/6fd3b733-80ac-4a84-bf4f-78a181357a27)
-![슬라이드8](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/b4cbaa09-fe79-4c1f-b4a8-cedb5f454643)
-![슬라이드9](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/f3b81a0e-d9eb-4015-aa7a-afa921913ef2)
-![슬라이드10](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/cca1e963-2420-4e03-9c84-244cf4e6b9f9)
-![슬라이드11](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/bd03a9b0-26a4-4414-b50c-d2240ae432e8)
-![슬라이드12](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/ceacbd7f-5854-4adc-8352-be24ecc467d5)
-![슬라이드13](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/e3e3dbae-4990-4885-881b-5875fd851960)
-![슬라이드14](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/3a181d94-f1b2-49ed-9cde-fc78e43347b2)
-![슬라이드15](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/09c33495-b89a-4a21-b390-3520866fa089)
-![슬라이드16](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/be94f34f-2642-48c2-9d4d-03a84abd2229)
-![슬라이드17](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/ba002376-a66c-401b-b21e-454e2e524bbd)
-![슬라이드18](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/f7464d5f-1df4-4d22-a6a6-589ac7e869e0)
+| ![슬라이드3](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/569470fb-4982-4b4d-9f27-86d2d9eab02e) | ![슬라이드4](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/8296bfdb-b41b-4c52-82f8-213896aaf9c2) |
+| ![슬라이드5](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/eb78592f-c425-4f6a-ab41-d2d870e46945) | ![슬라이드6](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/5c5f4a7f-ac4a-45a4-8fd8-aec020e9e70f) |
+| ![슬라이드7](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/6fd3b733-80ac-4a84-bf4f-78a181357a27) | ![슬라이드8](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/b4cbaa09-fe79-4c1f-b4a8-cedb5f454643) |
+| ![슬라이드9](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/f3b81a0e-d9eb-4015-aa7a-afa921913ef2) | ![슬라이드10](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/cca1e963-2420-4e03-9c84-244cf4e6b9f9) |
+| ![슬라이드11](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/bd03a9b0-26a4-4414-b50c-d2240ae432e8) | ![슬라이드12](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/ceacbd7f-5854-4adc-8352-be24ecc467d5) |
+| ![슬라이드13](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/e3e3dbae-4990-4885-881b-5875fd851960) | ![슬라이드14](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/3a181d94-f1b2-49ed-9cde-fc78e43347b2) |
+| ![슬라이드15](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/09c33495-b89a-4a21-b390-3520866fa089) | ![슬라이드16](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/be94f34f-2642-48c2-9d4d-03a84abd2229) |
+| ![슬라이드17](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/ba002376-a66c-401b-b21e-454e2e524bbd) | ![슬라이드18](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/f7464d5f-1df4-4d22-a6a6-589ac7e869e0) |
 ![슬라이드19](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/3b35fc4d-9a3b-4f3c-bf0f-07f4d338f71c)
 ![슬라이드20](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/988fb575-65b9-4f56-b4de-101353c7c647)
 ![슬라이드21](https://github.com/jangseyeol/Jangs-Project-JSP-SERVLET-/assets/157084039/e26aea32-fae4-44a6-9bf9-71f32799ac11)
